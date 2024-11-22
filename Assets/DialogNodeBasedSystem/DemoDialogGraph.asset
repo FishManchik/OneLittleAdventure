@@ -1,0 +1,433 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8705819208441359274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 524
+    y: 8.200211
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: First sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: 4936782135289953885}
+  childNode: {fileID: -7841181008643086002}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-8455854530336412942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 2030
+    y: 532.2002
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Last sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: 0}
+  childNode: {fileID: 0}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-7841181008643086002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 754
+    y: 16.200241
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Next to first sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: -8705819208441359274}
+  childNode: {fileID: 4411136173186865135}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-6005459696232394752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 748
+    y: 305.2002
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Next to third sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: 8776957959574132249}
+  childNode: {fileID: 4411136173186865135}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-5184584624021453599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 520
+    y: 148.20024
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Second sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: 4936782135289953885}
+  childNode: {fileID: 4978805031079437192}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-2790696347262530497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 22.00003
+    y: 199.20021
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Hello, this is Dialog Node Based System
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: 0}
+  childNode: {fileID: 4936782135289953885}
+  isExternalFunc: 0
+  externalFunctionName: Test
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33f741ea10ebcf842a91c9b871dd032a, type: 3}
+  m_Name: DemoDialogGraph
+  m_EditorClassIdentifier: 
+  nodesList:
+  - {fileID: -2790696347262530497}
+  - {fileID: -8705819208441359274}
+  - {fileID: -5184584624021453599}
+  - {fileID: 8776957959574132249}
+  - {fileID: 3563645847101711405}
+  - {fileID: -7841181008643086002}
+  - {fileID: 4978805031079437192}
+  - {fileID: -6005459696232394752}
+  - {fileID: 548517801765535934}
+  - {fileID: -8455854530336412942}
+  - {fileID: 1175716626248544139}
+  - {fileID: 4936782135289953885}
+  - {fileID: 4411136173186865135}
+  blankPlayerIcon: {fileID: 8400000, guid: ba1d6d588a38f26498c7fb23d7be267a, type: 2}
+  blankNpcIcon: {fileID: 8400000, guid: 384cbf1e64a767e4daea018d7ea7c6d5, type: 2}
+  nodeToDrawLineFrom: {fileID: 0}
+  linePosition: {x: 0, y: 0}
+--- !u!114 &548517801765535934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 748
+    y: 446.19922
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Next to fourth sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: 3563645847101711405}
+  childNode: {fileID: 4411136173186865135}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &1175716626248544139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 1194
+    y: 231.20021
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Last sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: 4411136173186865135}
+  childNode: {fileID: 0}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &3563645847101711405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 526
+    y: 446.19922
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Fourth sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: 4936782135289953885}
+  childNode: {fileID: 548517801765535934}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &4411136173186865135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1717f3c6dba9fa40844ddacac301510, type: 3}
+  m_Name: Answer Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 984
+    y: 242.2002
+    width: 190
+    height: 115
+  isDragging: 0
+  isSelected: 0
+  answers:
+  - End dialog
+  parentSentenceNode: {fileID: 548517801765535934}
+  childSentenceNodes:
+  - {fileID: 1175716626248544139}
+--- !u!114 &4936782135289953885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1717f3c6dba9fa40844ddacac301510, type: 3}
+  m_Name: Answer Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 283
+    y: 196.20021
+    width: 190
+    height: 115
+  isDragging: 0
+  isSelected: 0
+  answers:
+  - Go to first sentence
+  - Go to second sentence
+  - Go to third sentence
+  - Go to fourth sentence
+  parentSentenceNode: {fileID: -2790696347262530497}
+  childSentenceNodes:
+  - {fileID: -8705819208441359274}
+  - {fileID: -5184584624021453599}
+  - {fileID: 8776957959574132249}
+  - {fileID: 3563645847101711405}
+--- !u!114 &4978805031079437192
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 757
+    y: 152.20024
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Next to second sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: -5184584624021453599}
+  childNode: {fileID: 4411136173186865135}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &8776957959574132249
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 522
+    y: 294.2002
+    width: 190
+    height: 160
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: cherrydev
+    text: Third sentence
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+  parentNode: {fileID: 4936782135289953885}
+  childNode: {fileID: -6005459696232394752}
+  isExternalFunc: 0
+  externalFunctionName: 

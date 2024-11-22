@@ -1,0 +1,801 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9042128909330707510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 210.19998
+    y: -129.19995
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "\u0410\u0433\u0430-\u0430\u0433\u0430..."
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: 2653940281665800835}
+  childNode: {fileID: 0}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-8536898284384408111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: -647.80005
+    y: 31.800098
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "\u0410\u0445, \u0432\u043E\u0442 \u043E\u043D\u043E \u0437\u043D\u0430\u0447\u0438\u0442
+      \u043A\u0430\u043A!!!!"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 2
+  parentNode: {fileID: 6461092009025075413}
+  childNode: {fileID: -3336556538037056512}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-8134494800088600802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 2720.2002
+    y: 349.8
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "\u0414\u0430, \u0443 \u043C\u0435\u043D\u044F \u0432 \u041F\u0430\u043A\u0438\u0441\u0442\u0430\u043D\u0435..."
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: -5530807978070416906}
+  childNode: {fileID: 0}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-7255170495270363485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 2720.2002
+    y: 193.79999
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "\u0411\u043B\u0438\u043D, \u043D\u0443 \u043B\u0430\u0434\u043D\u043E"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: -5530807978070416906}
+  childNode: {fileID: 0}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-6801576203490130177
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 2230.2002
+    y: 215.80002
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "\u041A\u0430\u043A \u044D\u0442\u043E? "
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 2
+  parentNode: {fileID: -2958284919901755329}
+  childNode: {fileID: -5530807978070416906}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-5530807978070416906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1717f3c6dba9fa40844ddacac301510, type: 3}
+  m_Name: Answer Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 2466.2002
+    y: 215.79999
+    width: 190
+    height: 155
+  isDragging: 0
+  isSelected: 0
+  answers:
+  - "\u0410 \u0432\u043E\u0442 \u0442\u0430\u043A!"
+  - "\u041D\u0435 \u0431\u0443\u0434\u0443, \u0438 \u0432\u0441\u0451 \u0442\u0443\u0442!"
+  - "\u042D\u043C \u0442\u044B \u0442\u0438\u043F\u0430, \u043A\u0430\u043A\u043E\u0435
+    \u043F\u0440\u0430\u0432\u043E \u0438\u043C\u0435\u0435\u0448\u044C \u043C\u043D\u043E\u0439-\u044D\u044D\u044D\u044D "
+  parentSentenceNode: {fileID: -6801576203490130177}
+  childSentenceNodes:
+  - {fileID: 8078728715788900903}
+  - {fileID: -7255170495270363485}
+  - {fileID: -8134494800088600802}
+--- !u!114 &-4142569610163887217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: -1402.8
+    y: 26.800083
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "A \u0432\u043E\u0442 \u044D\u0442\u043E \u043F\u043B\u043E\u0445\u043E
+      - \u0412 \u0441\u0430\u0434\u0438\u043A \u043D\u0435 \u0445\u043E\u0434\u0438\u0442\u044C"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 2
+  parentNode: {fileID: -2573846982677001719}
+  childNode: {fileID: 769296339906440937}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-3336556538037056512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: -372.80005
+    y: 33.800068
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "\u042F \u0441 \u0442\u043E\u0431\u043E\u0439 \u0431\u043E\u043B\u044C\u0448\u0435,
+      \u043D\u0435 \u0434\u0440\u0443\u0436\u0443!!!"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 2
+  parentNode: {fileID: -8536898284384408111}
+  childNode: {fileID: 2653940281665800835}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-2958284919901755329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 1966.2002
+    y: 216.79999
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u042D\u0442\u043E\u0442 \u043D\u0443 \u0432\u043E\u0442 \u044D\u0442\u043E\u0442"
+    text: "\u041D-\u043D\u0435 \u0431\u0443\u0434\u0443!"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 1
+  parentNode: {fileID: 6135360443796744544}
+  childNode: {fileID: -6801576203490130177}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-2573846982677001719
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: -1682.7998
+    y: 22.800098
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u042D\u0442\u043E\u0442 \u043D\u0443 \u0432\u043E\u0442 \u044D\u0442\u043E\u0442"
+    text: "\u0410 \u044F \u043F\u0447\u0451\u043B\u043A\u0430 \u0436\u0443-\u0436\u0443-\u0436\u0443
+      \u0432 \u0441\u0430\u0434\u0438\u043A \u0448\u043A\u043E\u043B\u0443 \u043D\u0435
+      \u0445\u043E\u0436\u0443"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 1
+  parentNode: {fileID: -1361896212525422872}
+  childNode: {fileID: -4142569610163887217}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-1361896212525422872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: -1951.7998
+    y: 26.800022
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: 
+    text: 
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: 0}
+  childNode: {fileID: -2573846982677001719}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-1174833979186716329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 721.2
+    y: 214.79999
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: 
+    text: ...
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: 4614042152723677002}
+  childNode: {fileID: -451945456855701384}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-451945456855701384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 970.2
+    y: 212.79999
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: 
+    text: ..
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: -1174833979186716329}
+  childNode: {fileID: -170059258706987969}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &-170059258706987969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 1206.2
+    y: 209.79999
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: 
+    text: .
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: -451945456855701384}
+  childNode: {fileID: 8253866190872108110}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33f741ea10ebcf842a91c9b871dd032a, type: 3}
+  m_Name: Pcholka Node Graph
+  m_EditorClassIdentifier: 
+  nodesList:
+  - {fileID: -2573846982677001719}
+  - {fileID: -4142569610163887217}
+  - {fileID: 769296339906440937}
+  - {fileID: 6461092009025075413}
+  - {fileID: -8536898284384408111}
+  - {fileID: -3336556538037056512}
+  - {fileID: 2653940281665800835}
+  - {fileID: -9042128909330707510}
+  - {fileID: 5117284901044637891}
+  - {fileID: 7405665593835493054}
+  - {fileID: 4614042152723677002}
+  - {fileID: -1174833979186716329}
+  - {fileID: -451945456855701384}
+  - {fileID: -170059258706987969}
+  - {fileID: 8253866190872108110}
+  - {fileID: 6135360443796744544}
+  - {fileID: -2958284919901755329}
+  - {fileID: -6801576203490130177}
+  - {fileID: -5530807978070416906}
+  - {fileID: 8078728715788900903}
+  - {fileID: -7255170495270363485}
+  - {fileID: -8134494800088600802}
+  - {fileID: -1361896212525422872}
+  blankPlayerIcon: {fileID: 8400000, guid: ba1d6d588a38f26498c7fb23d7be267a, type: 2}
+  blankNpcIcon: {fileID: 8400000, guid: 384cbf1e64a767e4daea018d7ea7c6d5, type: 2}
+  nodeToDrawLineFrom: {fileID: 0}
+  linePosition: {x: 0, y: 0}
+--- !u!114 &769296339906440937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: -1143.8
+    y: 23.800098
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u042D\u0442\u043E\u0442 \u043D\u0443 \u0432\u043E\u0442 \u044D\u0442\u043E\u0442"
+    text: "A, \u043C\u043D\u0435 \u043C\u0430\u043C\u0430 \u0440\u0430\u0437\u0440\u0435\u0448\u0438\u043B\u0430"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 1
+  parentNode: {fileID: -4142569610163887217}
+  childNode: {fileID: 6461092009025075413}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &2653940281665800835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1717f3c6dba9fa40844ddacac301510, type: 3}
+  m_Name: Answer Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: -92.80003
+    y: 39.80002
+    width: 190
+    height: 155
+  isDragging: 0
+  isSelected: 0
+  answers:
+  - "\u041D\u0443 \u0438 \u043B\u0430\u0434\u043D\u043E!"
+  - "\u041D\u0443 \u0431\u043B\u0438\u0438\u0438\u0438\u043D, \u043D\u0435\u0442
+    \u0441\u0442\u043E\u0439!"
+  - "\u041C\u0438\u0440\u0438\u0441\u044C-\u043C\u0438\u0440\u0438\u0441\u044C-\u043C\u0438\u0440\u0438\u0441\u044C
+    \u0438 \u0431\u043E\u043B\u044C\u0448\u0435 \u043D\u0435 \u0434\u0435\u0440\u0438\u0441\u044C,
+    \u0430 \u0435\u0441\u043B\u0438 \u0431\u0443\u0434\u0435\u0448 \u0434\u0440\u0430\u0442\u044C\u0441\u044F,
+    \u044F \u0431\u0443\u0434\u0443 \u043A\u0443\u0441\u0430\u0442\u044C\u0441\u044F!"
+  parentSentenceNode: {fileID: -3336556538037056512}
+  childSentenceNodes:
+  - {fileID: -9042128909330707510}
+  - {fileID: 5117284901044637891}
+  - {fileID: 7405665593835493054}
+--- !u!114 &4614042152723677002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 475.2
+    y: 212.79999
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u042D\u0442\u043E\u0442 \u043D\u0443 \u0432\u043E\u0442 \u044D\u0442\u043E\u0442"
+    text: "\u0423\u0440\u0430\u0430\u0430 \u0440\u043E\u0431\u043B\u043E\u043A\u0441"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: 7405665593835493054}
+  childNode: {fileID: -1174833979186716329}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &5117284901044637891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 208.19998
+    y: 29.800068
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 1
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "\u042D\u043C \u0442\u0438\u043F\u0430 \u0447\u0435\u043B..."
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: 2653940281665800835}
+  childNode: {fileID: 0}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &6135360443796744544
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 1696.2001
+    y: 216.79999
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u042D\u0442\u043E\u0442 \u043D\u0443 \u0432\u043E\u0442 \u044D\u0442\u043E\u0442"
+    text: "(\u0412 \u043F\u043E\u043B\u043D\u043E\u043C \u0430\u0444\u0438\u0433\u0435)"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: 8253866190872108110}
+  childNode: {fileID: -2958284919901755329}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &6461092009025075413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: -910.80005
+    y: 14.800098
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u042D\u0442\u043E\u0442 \u043D\u0443 \u0432\u043E\u0442 \u044D\u0442\u043E\u0442"
+    text: "\u0418 \u0432\u043E\u043E\u0431\u0449\u0435, \u0438\u0442\u0441 \u043D\u043E\u0442
+      \u0451\u043E\u0440 \u0431\u0438\u0437\u043D\u0435\u0441 \u0431\u0440\u043E..."
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 1
+  parentNode: {fileID: 769296339906440937}
+  childNode: {fileID: -8536898284384408111}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &7405665593835493054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 214.19998
+    y: 209.79999
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "\u041B\u0430\u0434\u043D\u043E, \u043F\u0440\u043E\u0449\u0430\u044E!"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 2
+  parentNode: {fileID: 2653940281665800835}
+  childNode: {fileID: 4614042152723677002}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &8078728715788900903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 2719.2002
+    y: 41.800003
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "\u041D\u0443 \u0438 \u0432\u0441\u0451 \u0442\u0443\u0442"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 0
+  parentNode: {fileID: -5530807978070416906}
+  childNode: {fileID: 0}
+  isExternalFunc: 0
+  externalFunctionName: 
+--- !u!114 &8253866190872108110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32a464d8ccff4e40a60c45b40a1e648, type: 3}
+  m_Name: Sentence Node
+  m_EditorClassIdentifier: 
+  connectedNodesList: []
+  nodeGraph: {fileID: 11400000}
+  rect:
+    serializedVersion: 2
+    x: 1458.2
+    y: 207.79999
+    width: 190
+    height: 350
+  isDragging: 0
+  isSelected: 0
+  sentence:
+    characterName: "\u0410\u0431\u0434\u0443\u043B \u0425\u0430\u0434 \u0410 \u0411\u0438\u043D
+      \u0425\u0430\u0440\u0430\u0445 \u041C\u0430\u043B\u0435\u043A"
+    text: "A \u0442\u0435\u043F\u0435\u0440\u044C, \u0432\u043E\u0437\u043C\u0438
+      \u043A\u043E\u0440\u043E\u0431\u043A\u0438, \u043E\u0442\u043D\u0435\u0441\u0438
+      \u043A\u043E\u0440\u043E\u0431\u043A\u0438 \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u0448\u044C
+      \u043A\u043E\u0440\u043E\u0431\u043A\u0438"
+    playerIcon: {fileID: 0}
+    npcIcon: {fileID: 0}
+    iconType: 2
+  parentNode: {fileID: -170059258706987969}
+  childNode: {fileID: 6135360443796744544}
+  isExternalFunc: 0
+  externalFunctionName: 
